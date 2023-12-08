@@ -12,7 +12,7 @@ import com.google.android.material.textview.MaterialTextView;
 public class MainActivity extends AppCompatActivity {
     private int[] imageIds = {R.drawable.hibrido,R.drawable.aerogeneradores,R.drawable.eficiencia};
     private String[] cardTiles = {"Free Energy","Wind Energy", "Efficiency"};
-    private String[] cardDescriptions = {"Descripcion 1","Descripcion 2","Descripticion 3"};
+    private String[] cardDescriptions = {"Descripcion 10","Descripcion 20","Descripticion 30"};
     private int currentIndex = 0;
     private ImageView imageView;
     private MaterialTextView cardTitle;
